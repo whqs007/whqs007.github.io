@@ -1,20 +1,23 @@
 # About Me
-I am a Senior Staff Engineer at Alibaba Cloud, currently leading several kernel development teams for PolarDB. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring new architectures for cloud-native databases, distributed systems, and co-design with emergency hardware technologies.
+I am a Senior Staff Engineer/Director at Alibaba Cloud, currently leading several kernel development teams for PolarDB. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, and co-design with emergent hardware technologies.
 Before joining Alibaba, I was a part of the database team at Baidu. I earned both my bachelor's and master's degrees from Zhejiang University.
 
 
 # Research & Development
-[**AliSQL**] I have been leading the kernel development of AliSQL since 2014 and have repeatedly taken on the role of database kernel leader for Alibaba Group's Double 11 event. [Additional information](https://www.percona.com/blog/percona-live-featured-talk-with-ying-qiang-zhang-whats-new-in-alisql-alibabas-branch-of-mysql/)
+[**AliSQL**] I have been leading the kernel development of AliSQL since 2014 and have taken on the role of database kernel leader for Alibaba Group's Double 11 event for many years. [Additional information](https://www.percona.com/blog/percona-live-featured-talk-with-ying-qiang-zhang-whats-new-in-alisql-alibabas-branch-of-mysql/)
 
-[**X-DB**]I took charge of the kernel R&D for X-DB since 2016. By 2017, X-DB was fully launched and has since become the most extensively deployed database system across the entire Alibaba Group. [Additional information](https://mp.weixin.qq.com/s/BCBRewfxCg2i3bDqmHzoLg)
+[**X-DB**]I took charge of the kernel R&D for X-DB since 2016. By 2017, X-DB was fully launched and has become the most extensively deployed database system across the entire Alibaba Group. [Additional information](https://mp.weixin.qq.com/s/BCBRewfxCg2i3bDqmHzoLg)
 
 [**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, leading the development teams of the transaction engine and middleware. My leadership has driven the architectural evolution of PolarDB, encompassing the Distributed Shared-Memory, Serverless, Multi-Primary Architecture, and Consensus Protocol.
+
+#  Awards
+- ICDE 2024 Best Industry and Application Paper Award
 
 # Selected Publications
 
 ## 2024
 - [**SIGMOD**] _PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory_. 
-	- by Xinjun Yang∗, **Yingqiang Zhang∗**, Hao Chen, Feifei Li,  Bo Wang, Jing Fang, Chuan Sun, Yuhui Wang
+	- by Xinjun Yang∗, **Yingqiang Zhang∗**, Hao Chen, Feifei Li,  Bo Wang, Jing Fang, Chuan Sun, Yuhui Wang(*equal contribution)
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2024**)
 - [**ICDE**] _Towards a Shared-storage-based Serverless Database Achieving Seamless Scale-up and Read Scale-out_. 
 	- by **Yingqiang Zhang**, Xinjun Yang, Hao Chen, Feifei Li, Jiawei Xu, Jie Zhou, Xudong Wu, Qiang Zhang
