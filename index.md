@@ -1,6 +1,6 @@
 # About Me
 I am a Senior Staff Engineer/Director at Alibaba Cloud, currently leading several kernel development teams for PolarDB. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, and co-design with emergent hardware technologies.
-Before joining Alibaba, I was a part of the database team at Baidu. I earned both my bachelor's and master's degrees from Zhejiang University.
+Before joining Alibaba, I was a part of the database team at Baidu. I earned my bachelor's and master's degrees in 2009 and 2012 both from Zhejiang University.
 
 
 # Research & Development
