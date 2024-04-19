@@ -15,7 +15,6 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 # Selected Publications
 
-## 2024
 - [**SIGMOD**] _PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory_. 
 	- by Xinjun Yang∗, **Yingqiang Zhang∗**, Hao Chen, Feifei Li,  Bo Wang, Jing Fang, Chuan Sun, Yuhui Wang(*equal contribution)
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2024**)
@@ -27,7 +26,7 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 	- In Proceedings of 49th _International Conference on Very Large Data Bases_ (**VLDB 2023**)
 - [**ASPLOS**] _Persistent Memory Disaggregation for Cloud-Native Relational Databases_. 
 	- by Chaoyi Ruan, **Yingqiang Zhang**, Chao Bi, Xiaosong Ma, Hao Chen, Feifei Li, Xinjun Yang, Cheng Li, Ashraf Aboulnaga, Yinlong Xu
-	- In Proceedings of 49th _International Conference on Very Large Data Bases_ (**VLDB 2023**)
+	- In Proceedings of the 28th ACM _International Conference on Architectural Support for Programming Languages and Operating Systems_ (**ASPLOS 2023**)
 - [**ICDE**] _PolarDB-X: An Elastic Distributed Relational Database for Cloud-Native Applications_. 
 	- by Wei Cao, Feifei Li, Gui Huang, Jianghang Lou, Jianwei Zhao, Dengcheng He, Mengshi Sun, **Yingqiang Zhang**, Sheng Wang, Xueqiang Wu, Han Liao, Zilin Chen, Xiaojian Fang, Mo Chen, Chenghui Liang, Yanxin Luo, Huanming Wang, Songlei Wang, Zhanfeng Ma, Xinjun Yang, Xiang Peng, Yubin Ruan, Yuhui Wang, Jie Zhou, Jianying Wang, Qingda Hu, Junbin Kang
 	- In Proceedings of 37th _IEEE International Conference on Data Engineering_ (**IEEE ICDE 2022**)
