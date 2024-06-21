@@ -12,6 +12,7 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 #  Awards
 - ICDE 2024 Best Industry and Application Paper Award
+- SIGMOD 2024 Industry Track Best Paper
 
 # Selected Publications
 
