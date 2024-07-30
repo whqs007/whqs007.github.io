@@ -16,7 +16,7 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 # Selected Publications
 
-- [**SIGMOD**] _PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory_. 
+- [**SIGMOD**] [_PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory_.](https://zhangyingqiang.com/paper/PolarDB_Multi_Primary.pdf) 
 	- by Xinjun Yang∗, **Yingqiang Zhang∗**, Hao Chen, Feifei Li,  Bo Wang, Jing Fang, Chuan Sun, Yuhui Wang **(\*equal contribution)**
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2024**)  **<font color=red>SIGMOD Industry Track Best Paper</font>**
 - [**ICDE**] _Towards a Shared-storage-based Serverless Database Achieving Seamless Scale-up and Read Scale-out_. 
