@@ -11,8 +11,10 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 [**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, leading the development teams of the transaction engine and middleware. My leadership has driven the architectural evolution of PolarDB, encompassing the Distributed Shared-Memory, Serverless, Multi-Primary Architecture, and Consensus Protocol.
 
 #  Awards
-- ICDE 2024 Best Industry and Application Paper Award
-- SIGMOD 2024 Industry Track Best Paper
+- The First Prize of Scientific and Technological Progress Award by China Computer Association/Third Contributor (CCF科技进步一等奖/第三贡献者)
+- SIGMOD 2024 Industry Track Best Paper （Co-first Author）
+- ICDE 2024 Best Industry and Application Paper Award （First Author）
+
 
 # Selected Publications
 
@@ -49,4 +51,4 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 
 #
-Last Update: Apr 2024
+Last Update: Oct 2024
