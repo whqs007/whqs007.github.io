@@ -46,8 +46,10 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 # Professional Services
 
 ## Conference Program Committee:
-- 39th IEEE International Conference on Data Engineering (ICDE'24) 
+- 40th IEEE International Conference on Data Engineering (ICDE'25)
 - 25th ChinaSys Workshop (ChinaSys'24)
+- 39th IEEE International Conference on Data Engineering (ICDE'24) 
+
 
 
 #
