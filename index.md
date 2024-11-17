@@ -1,5 +1,5 @@
 # About Me
-I am Yingqiang Zhang(章颖强，alibaba alias:江疑), a Senior Staff Engineer/Director at Alibaba Cloud, currently leading several kernel development teams for PolarDB. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, and co-design with emergent hardware technologies.
+I am Yingqiang Zhang(章颖强，alibaba alias:江疑), a Senior Staff Engineer/Director at Alibaba Cloud, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, and co-design with emergent hardware technologies.
 Before joining Alibaba, I was a part of the database team at Baidu. I earned my bachelor's and master's degrees in 2009 and 2012 both from Zhejiang University.
 
 
@@ -8,7 +8,7 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 [**X-DB**]I took charge of the kernel R&D for X-DB since 2016. By 2017, X-DB was fully launched and has become the most extensively deployed database system across the entire Alibaba Group. [Additional information](https://mp.weixin.qq.com/s/BCBRewfxCg2i3bDqmHzoLg)
 
-[**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, leading the development teams of the transaction engine and middleware. My leadership has driven the architectural evolution of PolarDB, encompassing the Distributed Shared-Memory, Serverless, Multi-Primary Architecture, and Consensus Protocol.
+[**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. My leadership has driven the architectural evolution of PolarDB, encompassing the Serverless, Multi-Primary Architecture, Distributed Shared-Memory, and Consensus Protocol.
 
 #  Awards
 - The First Prize of Scientific and Technological Progress Award by China Computer Association 2024/Third Contributor (CCF科技进步一等奖/第三贡献者)
