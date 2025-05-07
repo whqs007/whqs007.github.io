@@ -1,5 +1,8 @@
 # About Me
-I am Yingqiang Zhang(章颖强，alibaba alias:江疑), a Senior Staff Engineer/Director at Alibaba Cloud, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. I am engaged in the technical R&D of the cloud-native database, and research in database/system technologies. My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, and co-design with emergent hardware technologies.
+I am Yingqiang Zhang(章颖强，alibaba alias:江疑), a Senior Staff Engineer/Director at Alibaba Cloud, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL, 
+holding responsibility for OLTP systems and their market deployment across two product lines. 
+I am engaged in the technical R&D of the cloud-native database, and research in database/system/MLSys technologies. 
+My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, machine learning system and co-design with emergent hardware technologies.
 Before joining Alibaba, I was a part of the database team at Baidu. I earned my bachelor's and master's degrees in 2009 and 2012 both from Zhejiang University.
 
 
@@ -8,16 +11,20 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 [**X-DB**]I took charge of the kernel R&D for X-DB since 2016. By 2017, X-DB was fully launched and has become the most extensively deployed database system across the entire Alibaba Group. [Additional information](https://mp.weixin.qq.com/s/BCBRewfxCg2i3bDqmHzoLg)
 
-[**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. My leadership has driven the architectural evolution of PolarDB, encompassing the Serverless, Multi-Primary Architecture, Distributed Shared-Memory, and Consensus Protocol.
+[**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. My leadership has driven the architectural evolution of PolarDB, encompassing the Serverless, Multi-Primary Architecture, Distributed Shared-Memory, KVCache for Inference and Consensus Protocol.
 
 #  Awards
+- SIGMOD 2025 Industry Track Best Paper （Second Author)
 - The First Prize of Scientific and Technological Progress Award by China Computer Association 2024/Third Contributor (CCF科技进步一等奖/第三贡献者)
 - SIGMOD 2024 Industry Track Best Paper （Co-first Author）
 - ICDE 2024 Best Industry and Application Paper Award （First Author）
 
 
 # Selected Publications
-
+- [**SIGMOD**] _Unlocking the Potential of CXL for Disaggregated Memory in Cloud-Native Databases_. 
+	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2025**)  **<font color=red>SIGMOD Industry Track Best Paper</font>**
+- [**VLDB**] _PolyBase: Adapting to Data Affinity Changes in Geo-Replicated Database via Row-Level Paxos-Group Affiliation Re-Assignment_. 
+	- In Proceedings of 51th _International Conference on Very Large Data Bases_ (**VLDB 2025**)
 - [**SIGMOD**] [_PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory_.](https://zhangyingqiang.com/paper/PolarDB_Multi_Primary.pdf) 
 	- by Xinjun Yang∗, **Yingqiang Zhang∗**, Hao Chen, Feifei Li,  Bo Wang, Jing Fang, Chuan Sun, Yuhui Wang **(\*equal contribution)**
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2024**)  **<font color=red>SIGMOD Industry Track Best Paper</font>**
@@ -53,4 +60,4 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 
 #
-Last Update: Nov 2024
+
