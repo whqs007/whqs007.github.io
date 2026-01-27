@@ -2,7 +2,7 @@
 I am Yingqiang Zhang(章颖强，alibaba alias:江疑), a Senior Staff Engineer/Director at Alibaba Cloud, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL, 
 holding responsibility for OLTP systems and their market deployment across two product lines. 
 I am engaged in the technical R&D of the cloud-native database, and research in database/system/MLSys technologies. 
-My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, machine learning system and co-design with emergent hardware technologies.
+My main research areas include exploring the next-generation architecture for cloud-native databases, distributed system, LLM & KVCache and co-design with emergent hardware technologies.
 Before joining Alibaba, I was a part of the database team at Baidu. I earned my bachelor's and master's degrees in 2009 and 2012 both from Zhejiang University.
 
 
@@ -12,6 +12,8 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 [**X-DB**]I took charge of the kernel R&D for X-DB since 2016. By 2017, X-DB was fully launched and has become the most extensively deployed database system across the entire Alibaba Group. [Additional information](https://mp.weixin.qq.com/s/BCBRewfxCg2i3bDqmHzoLg)
 
 [**PolarDB**] Since 2018, I have dedicated myself to the kernel R&D of PolarDB, currently leading Transaction & Storage Engine Teams for both PolarDB MySQL and PolarDB PostgreSQL. My leadership has driven the architectural evolution of PolarDB, encompassing the Serverless, Multi-Primary Architecture, Distributed Shared-Memory, KVCache for Inference and Consensus Protocol.
+
+[**PolarKVCache**] I have been leading the development of PolarKVCache, an LLM inference acceleration solution that extends KVCache from GPU VRAM to TB-scale distributed memory, achieving up to 26.8x TTFT reduction. We also contribute to the SGLang open-source community, including HiCache framework optimization, inference capabilities and operational enhancements. [Additional information](https://help.aliyun.com/zh/polardb/polardb-for-mysql/user-guide/polarkvcache-inference-acceleration)
 
 #  Awards
 - SIGMOD 2025 Industry Track Best Paper （Second Author)
