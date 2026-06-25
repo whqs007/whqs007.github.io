@@ -28,7 +28,10 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 	- In Proceedings of 52th _International Conference on Very Large Data Bases_ (**VLDB 2026**)
 - [**SIGMOD**] _LakeMem: An Elastic Disaggregated-Memory Caching Layer for Analytical Processing Systems_.
   	- by Xinyi Yu, **Yingqiang Zhang**, Hao Chen, Zhaoxiang Huang, Xinjun Yang, Feifei Li, Chuan Sun, Jing Geng, Jiong Xie, Ninglong Weng, Yiming Zhang
-	- In Proceedings of 44nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2026**) 
+	- In Proceedings of 44nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2026**)
+- [**TC**] *CXLock: Efficient and Scalable Lock Management for CXL-Enabled Distributed Systems*.
+  - by Tao Huang, Yudi Qiu, Yuxin Tang, Qixiao Liu, Wenpu Hu, Xinjun Yang, **Yingqiang Zhang**, Hao Chen, Guoqiang Xu, Zipeng Ouyang, Yuemin Wu, Jian Chen, Wei Wang, Yang Kong
+  - In _IEEE Transactions on Computers_ (**TC 2026**)
 - [**SIGMOD**] _Unlocking the Potential of CXL for Disaggregated Memory in Cloud-Native Databases_.
     - by Xinjun Yang, **Yingqiang Zhang**, Hao Chen, Feifei Li, Gerry Fan, Yang Kong, Bo Wang, Jing Fang, Yuhui Wang, Tao Huang, Wenpu Hu, Jim Kao, Jianping Jiang
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2025**)  **<font color=red>SIGMOD Industry Track Best Paper</font>**
