@@ -23,7 +23,14 @@ Before joining Alibaba, I was a part of the database team at Baidu. I earned my 
 
 
 # Selected Publications
-- [**SIGMOD**] _Unlocking the Potential of CXL for Disaggregated Memory in Cloud-Native Databases_. 
+- [**VLDB**] _PolarKV: Tier Locally, Serve Globally—A KV Cache over Cloud Memory and Storage_.
+    - by **Yingqiang Zhang**, Xinjun Yang, Hao Chen, Feifei Li, Shuwen Wang, Chuan Sun, Sai Wu, Ninglong Weng
+	- In Proceedings of 52th _International Conference on Very Large Data Bases_ (**VLDB 2026**)
+- [**SIGMOD**] _LakeMem: An Elastic Disaggregated-Memory Caching Layer for Analytical Processing Systems_.
+  	- by Xinyi Yu, **Yingqiang Zhang**, Hao Chen, Zhaoxiang Huang, Xinjun Yang, Feifei Li, Chuan Sun, Jing Geng, Jiong Xie, Ninglong Weng, Yiming Zhang
+	- In Proceedings of 44nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2026**) 
+- [**SIGMOD**] _Unlocking the Potential of CXL for Disaggregated Memory in Cloud-Native Databases_.
+    - by Xinjun Yang, **Yingqiang Zhang**, Hao Chen, Feifei Li, Gerry Fan, Yang Kong, Bo Wang, Jing Fang, Yuhui Wang, Tao Huang, Wenpu Hu, Jim Kao, Jianping Jiang
 	- In Proceedings of 43nd _ACM SIGMOD International Conference on Management of Data_ (**SIGMOD 2025**)  **<font color=red>SIGMOD Industry Track Best Paper</font>**
 - [**VLDB**] _PolyBase: Adapting to Data Affinity Changes in Geo-Replicated Database via Row-Level Paxos-Group Affiliation Re-Assignment_. 
 	- In Proceedings of 51th _International Conference on Very Large Data Bases_ (**VLDB 2025**)
